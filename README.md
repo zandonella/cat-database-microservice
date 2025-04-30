@@ -6,7 +6,8 @@ location-based search, and file handling for cat profile images.
 
 ## Notes
 
-- This service is designed to run as part of the CatCall application and is not
+- This service is designed to run as part of the
+  [CatCall application](https://github.com/zandonella/CatCall) and is not
   intended for standalone production use.
 - MongoDB must be running and accessible using the URI defined in your `.env`
   file.
